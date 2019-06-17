@@ -11,7 +11,7 @@
         android:id="@+id/image_view_detail"
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:src="@mipmap/ic_launcher" /> <!-- DELETE AFTER TESTING -->
+        android:src="@mipmap/ic_launcher" /> <!-- MIGHT CAUSE ISSUES -->
 
     <TextView
         android:id="@+id/text_view_title_detail"
